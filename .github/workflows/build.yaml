@@ -1,0 +1,11 @@
+name: Foo
+
+on:
+  pull_request:
+
+jobs:
+  hello:
+    name: Hello world
+    runs-on: ubuntu-latest
+    steps:
+      - run: "true"

@@ -1,6 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "github>kachick/renovate-config-dprint#1.2.0"
+    "github>scop/common#1.0.0"
   ]
 }

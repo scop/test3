@@ -32,7 +32,7 @@ jobs:
     permissions:
       contents: read
     steps:
-      - uses: scop/common/force-color@08f8a44771add9537499e9325dca0fe1479c2480 # main
+      - uses: scop/common/force-color@dda8591ec0ac088958bcf4536f91134c19d0c9a6 # main
       - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
         with:
           persist-credentials: false
